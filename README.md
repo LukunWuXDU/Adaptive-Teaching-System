@@ -1,7 +1,6 @@
 # Adaptive Teaching System (ATS)
 
 ## Table of Contents
-  - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Repo Architecture](#repo-architecture)
   - [Environment Setup](#environment-setup)
@@ -161,17 +160,13 @@ The code is also inspired by prior awesome works on neural decoding tasks:
 - [CognitionCapturer: Decoding Visual Stimuli from Human EEG Signals with Multimodal Information.](https://github.com/XiaoZhangYES/CognitionCapturer/) [AAAI 2025]
 - [Mind’s Eye: Image Recognition by EEG via Multimodal Similarity-Keeping Contrastive Learnings](https://github.com/ChiShengChen/MUSE_EEG)  [arXiv:2406.16910]
 
-<!-- ## Citation
+## Citation
 If you find our work helpful, please cite:
 ```bibtex
-@InProceedings{Wu2025UBP,
-    title = {Bridging the Vision-Brain Gap with an Uncertainty-Aware Blur Prior},
-    author = {Wu, Haitao and Li, Qing and Zhang, Changqing and He, Zhen and Ying, Xiaomin},
-    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-    year = {2025}
+
 }
 ```
 
 
 ## Contact us
-For any additional questions, feel free to email wuhaitao@tju.edu.cn . -->
+For any additional questions, feel free to email lkwu@stu.xidian.edu.cn .
