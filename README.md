@@ -11,7 +11,7 @@
   - [Acknowledgement](#acknowledgement)
 
 ## Introduction
-This is the official implementation for [Shrinking the Teacher: An Adaptive Teaching Paradigm for Asymmetric EEG-Vision Alignment]
+This is the official implementation for [Shrinking the Teacher: An Adaptive Teaching Paradigm for Asymmetric EEG-Vision Alignment](AAAI 2026)
 
 **Motivation:**
 <p align="center">
