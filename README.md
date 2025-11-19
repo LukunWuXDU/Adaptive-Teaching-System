@@ -14,7 +14,7 @@ This is the official implementation for [Shrinking the Teacher: An Adaptive Teac
 <p align="center">
   <a href="#">
   <p align="center">
-    <a href='https://arxiv.org/abs/2511.11422'><img src='http://img.shields.io/badge/Paper-arxiv.2412.10489-B31B1B.svg'></a>
+    <a href='https://arxiv.org/abs/2511.11422'><img src='http://img.shields.io/badge/Paper-arxiv.2511.11422-B31B1B.svg'></a>
   </p>
 </p>
 
